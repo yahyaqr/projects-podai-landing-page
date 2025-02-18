@@ -1,0 +1,12 @@
+{
+    "id": "1",
+    "title": "Getting Started Guide",
+    "content": "# Getting Started\n\nWelcome to our platform! This guide will help you get started...",
+    "yaml": {
+        "title": "Getting Started Guide",
+        "author": "John Doe",
+        "date": "2024-01-27",
+        "tags": "guide, introduction",
+        "status": "published"
+    }
+}

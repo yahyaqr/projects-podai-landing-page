@@ -1,0 +1,12 @@
+{
+    "id": "3",
+    "title": "Release Notes v1.0",
+    "content": "# Release Notes - v1.0\n\n## New Features\n\n- Feature 1\n- Feature 2",
+    "yaml": {
+        "title": "Release Notes v1.0",
+        "author": "Mike Johnson",
+        "date": "2024-01-25",
+        "tags": "release, changelog",
+        "status": "archived"
+    }
+}

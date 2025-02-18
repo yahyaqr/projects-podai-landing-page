@@ -1,0 +1,12 @@
+{
+    "id": "2",
+    "title": "API Documentation",
+    "content": "# API Documentation\n\n## Authentication\n\nTo authenticate your requests...",
+    "yaml": {
+        "title": "API Documentation",
+        "author": "Jane Smith",
+        "date": "2024-01-26",
+        "tags": "api, documentation",
+        "status": "draft"
+    }
+}
